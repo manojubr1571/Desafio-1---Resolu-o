@@ -58,23 +58,22 @@
 }
 
 #titulohistoria {
-    margin: 100px 0px 20px 150px;
+    margin: 100px 0px 20px 12px;
     font-size: 50px;
     font-weight: 500;
-    line-height: 20px;
-    /* 50% */
+    text-align: left;
 }
 
 #paragrafohistoria {
-    margin-left: 150px;
     padding-top: 10px;
     font-size: 20px;
     text-align: justify;
     color: #000;
-    font-size: 24px;
+    font-size: 30px;
     font-style: normal;
-    font-weight: 300;
     line-height: 30px;
+    margin-right: 10px;
+    padding-right: 50px;
 }
 
 #formulario {
